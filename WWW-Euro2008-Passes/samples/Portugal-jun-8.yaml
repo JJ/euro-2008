@@ -1,0 +1,115 @@
+---
+Bosingwa:
+  Cristiano Ronaldo: 5
+  Deco: 5
+  João Moutinho: 2
+  Nani: 1
+  Nuno Gomes: 1
+  Paulo Ferreira: 1
+  Pepe: 9
+  Petit: 3
+  Raul Meireles: 2
+  Ricardo Carvalho: 2
+  Simão: 2
+Cristiano Ronaldo:
+  Bosingwa: 1
+  Deco: 6
+  João Moutinho: 3
+  Nani: 1
+  Nuno Gomes: 4
+  Paulo Ferreira: 1
+  Pepe: 4
+  Petit: 2
+Deco:
+  Bosingwa: 3
+  Cristiano Ronaldo: 3
+  João Moutinho: 3
+  Nani: 1
+  Nuno Gomes: 1
+  Paulo Ferreira: 4
+  Pepe: 3
+  Petit: 7
+  Ricardo: 1
+  Ricardo Carvalho: 2
+  Simão: 5
+João Moutinho:
+  Bosingwa: 2
+  Cristiano Ronaldo: 4
+  Deco: 6
+  Nuno Gomes: 1
+  Paulo Ferreira: 2
+  Pepe: 1
+  Petit: 6
+  Raul Meireles: 1
+  Ricardo Carvalho: 4
+  Simão: 5
+Nani:
+  Bosingwa: 3
+  Cristiano Ronaldo: 1
+  Pepe: 1
+Nuno Gomes:
+  Cristiano Ronaldo: 4
+  Deco: 2
+  Pepe: 1
+Paulo Ferreira:
+  Bosingwa: 1
+  Cristiano Ronaldo: 1
+  Deco: 10
+  João Moutinho: 4
+  Nuno Gomes: 1
+  Pepe: 2
+  Petit: 1
+  Ricardo: 1
+  Ricardo Carvalho: 12
+  Simão: 4
+Pepe:
+  Bosingwa: 11
+  Cristiano Ronaldo: 5
+  Deco: 3
+  João Moutinho: 5
+  Nuno Gomes: 1
+  Paulo Ferreira: 2
+  Petit: 4
+  Ricardo Carvalho: 5
+  Simão: 1
+Petit:
+  Bosingwa: 1
+  Cristiano Ronaldo: 4
+  Deco: 5
+  João Moutinho: 6
+  Nani: 1
+  Nuno Gomes: 1
+  Paulo Ferreira: 3
+  Pepe: 4
+  Ricardo Carvalho: 4
+  Simão: 3
+Raul Meireles:
+  Deco: 1
+Ricardo:
+  Bosingwa: 3
+  Cristiano Ronaldo: 3
+  Deco: 3
+  Paulo Ferreira: 1
+  Pepe: 3
+  Petit: 1
+Ricardo Carvalho:
+  Bosingwa: 4
+  Cristiano Ronaldo: 2
+  Deco: 3
+  João Moutinho: 5
+  Nani: 1
+  Nuno Gomes: 1
+  Paulo Ferreira: 6
+  Pepe: 6
+  Petit: 3
+  Raul Meireles: 1
+  Ricardo: 2
+Simão:
+  Bosingwa: 1
+  Cristiano Ronaldo: 1
+  Deco: 5
+  João Moutinho: 3
+  Nuno Gomes: 1
+  Paulo Ferreira: 7
+  Pepe: 2
+  Petit: 1
