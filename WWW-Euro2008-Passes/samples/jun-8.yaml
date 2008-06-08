@@ -1,0 +1,681 @@
+---
+'1 -  Ricardo':
+  '15 -  Emre Aşık': 1
+  '15 -  Pepe': 3
+  '2 -  Servet Çetin': 1
+  '2 - Paulo Ferreira': 1
+  '20 -  Deco': 3
+  '22 -  Hamit Altıntop': 1
+  '23 -  Volkan Demirel': 3
+  '3 -  Hakan Balta': 2
+  '4 -  Bosingwa': 3
+  '7 -  Cristiano Ronaldo': 3
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Petit': 1
+'1 - Diego Benaglio':
+  '10 -  Hakan Yakin': 1
+  '11 - Marco Streller': 1
+  '16 - Tranquillo Barnetta': 3
+  '19 - Valon Behrami': 2
+  '20 - Jaroslav Plašil': 1
+  '20 - Patrick Müller': 3
+  '21 - Tomáš Ujfaluši': 3
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 3
+  '4 - Philippe Senderos': 2
+  '4 - Tomáš Galásek': 1
+  '5 - Stephan Lichtsteiner': 1
+  '9 - Alexander Frei': 1
+'1 - Petr  Čech':
+  '20 - Jaroslav Plašil': 1
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 5
+  '4 - Philippe Senderos': 1
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 3
+  '9 - Jan Koller': 2
+'10 -  Hakan Yakin':
+  '11 - Marco Streller': 1
+  '15 - Gelson Fernandes': 4
+  '16 - Tranquillo Barnetta': 3
+  '20 - Patrick Müller': 1
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 2
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 1
+'10 -  João Moutinho':
+  '11 -  Simão': 5
+  '15 -  Pepe': 1
+  '16 - Ricardo Carvalho': 4
+  '2 - Paulo Ferreira': 2
+  '20 -  Deco': 6
+  '21 -  Nuno Gomes': 1
+  '23 -  Volkan Demirel': 1
+  '4 -  Bosingwa': 2
+  '6 -  Raul Meireles': 1
+  '7 -  Cristiano Ronaldo': 4
+  '8 -  Petit': 6
+'10 - Václav Svěrkoš':
+  '2 - Zdeněk Grygera': 1
+  '20 - Jaroslav Plašil': 1
+  '4 - Philippe Senderos': 1
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 1
+  '7 - Libor Sionko': 1
+'11 -  Simão':
+  '10 -  João Moutinho': 3
+  '15 -  Pepe': 2
+  '18 -  Kazım Kazım': 1
+  '2 - Paulo Ferreira': 7
+  '20 -  Deco': 5
+  '21 -  Nuno Gomes': 1
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 1
+  '7 -  Cristiano Ronaldo': 1
+  '8 -  Petit': 1
+'11 - Marco Streller':
+  '1 - Diego Benaglio': 1
+  '14 - David Jarolím': 1
+  '19 - Valon Behrami': 1
+  '21 - Tomáš Ujfaluši': 4
+  '4 - Philippe Senderos': 1
+  '5 - Stephan Lichtsteiner': 1
+  '8 - Gökhan Inler': 2
+  '9 - Alexander Frei': 1
+'11 - Stanislav Vlček':
+  '14 - David Jarolím': 1
+  '2 - Zdeněk Grygera': 1
+  '3 - Ludovic Magnin': 1
+'12 - Eren Derdiyok':
+  '10 - Václav Svěrkoš': 1
+  '4 - Philippe Senderos': 1
+'14 - David Jarolím':
+  '10 - Václav Svěrkoš': 1
+  '11 - Stanislav Vlček': 2
+  '15 - Gelson Fernandes': 3
+  '16 - Tranquillo Barnetta': 2
+  '2 - Zdeněk Grygera': 5
+  '20 - Jaroslav Plašil': 2
+  '20 - Patrick Müller': 1
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 3
+  '3 - Jan Polák': 4
+  '3 - Ludovic Magnin': 1
+  '4 - Tomáš Galásek': 3
+  '6 - Marek Jankulovski': 5
+  '7 - Libor Sionko': 3
+  '8 - Gökhan Inler': 2
+'15 -  Emre Aşık':
+  '17 -  Tuncay Şanlı': 1
+  '2 -  Servet Çetin': 1
+  '5 -  Emre Belözoğlu': 1
+  '7 -  Cristiano Ronaldo': 1
+  '7 -  Mehmet Aurélio': 5
+  '8 -  Nihat Kahveci': 1
+'15 -  Pepe':
+  '10 -  João Moutinho': 5
+  '11 -  Simão': 1
+  '16 - Ricardo Carvalho': 5
+  '18 -  Kazım Kazım': 1
+  '2 -  Servet Çetin': 1
+  '2 - Paulo Ferreira': 2
+  '20 -  Deco': 3
+  '21 -  Nuno Gomes': 1
+  '4 -  Bosingwa': 11
+  '7 -  Cristiano Ronaldo': 5
+  '7 -  Mehmet Aurélio': 2
+  '8 -  Nihat Kahveci': 1
+  '8 -  Petit': 4
+'15 - Gelson Fernandes':
+  '10 -  Hakan Yakin': 4
+  '10 - Václav Svěrkoš': 2
+  '11 - Marco Streller': 1
+  '16 - Tranquillo Barnetta': 4
+  '19 - Valon Behrami': 3
+  '20 - Patrick Müller': 4
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 1
+  '3 - Jan Polák': 1
+  '3 - Ludovic Magnin': 5
+  '4 - Philippe Senderos': 7
+  '5 - Stephan Lichtsteiner': 6
+  '8 - Gökhan Inler': 2
+  '9 - Alexander Frei': 3
+'16 - Ricardo Carvalho':
+  '1 -  Ricardo': 2
+  '10 -  João Moutinho': 5
+  '15 -  Pepe': 6
+  '18 -  Kazım Kazım': 1
+  '19 -  Nani': 1
+  '2 - Paulo Ferreira': 6
+  '20 -  Deco': 3
+  '21 -  Nuno Gomes': 1
+  '22 -  Hamit Altıntop': 1
+  '3 -  Hakan Balta': 1
+  '4 -  Bosingwa': 4
+  '6 -  Raul Meireles': 1
+  '7 -  Cristiano Ronaldo': 2
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Petit': 3
+'16 - Tranquillo Barnetta':
+  '10 -  Hakan Yakin': 1
+  '14 - David Jarolím': 1
+  '15 - Gelson Fernandes': 5
+  '19 - Valon Behrami': 1
+  '2 - Zdeněk Grygera': 2
+  '20 - Jaroslav Plašil': 1
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 1
+  '3 - Jan Polák': 1
+  '3 - Ludovic Magnin': 8
+  '4 - Philippe Senderos': 7
+  '4 - Tomáš Galásek': 2
+  '5 - Radoslav Kováč': 1
+  '5 - Stephan Lichtsteiner': 3
+  '8 - Gökhan Inler': 2
+  '9 - Alexander Frei': 2
+'17 -  Tuncay Şanlı':
+  '15 -  Emre Aşık': 2
+  '15 -  Pepe': 1
+  '18 -  Kazım Kazım': 4
+  '19 -  Nani': 2
+  '2 -  Servet Çetin': 2
+  '20 -  Sabri Sarıoğlu': 2
+  '21 -  Mevlüt Erdinç': 3
+  '22 -  Hamit Altıntop': 3
+  '23 -  Volkan Demirel': 1
+  '3 -  Hakan Balta': 1
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 2
+  '5 -  Emre Belözoğlu': 12
+  '7 -  Mehmet Aurélio': 3
+  '8 -  Nihat Kahveci': 2
+  '8 -  Petit': 1
+'18 -  Kazım Kazım':
+  '10 -  João Moutinho': 1
+  '2 -  Servet Çetin': 1
+  '2 - Paulo Ferreira': 3
+  '20 -  Deco': 1
+  '20 -  Sabri Sarıoğlu': 4
+  '21 -  Mevlüt Erdinç': 2
+  '22 -  Hamit Altıntop': 2
+  '23 -  Volkan Demirel': 1
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 2
+  '5 -  Emre Belözoğlu': 2
+  '7 -  Mehmet Aurélio': 5
+  '8 -  Nihat Kahveci': 3
+  '8 -  Petit': 1
+'19 -  Nani':
+  '15 -  Pepe': 1
+  '2 -  Servet Çetin': 1
+  '23 -  Volkan Demirel': 1
+  '4 -  Bosingwa': 3
+  '7 -  Cristiano Ronaldo': 1
+'19 - Valon Behrami':
+  '14 - David Jarolím': 1
+  '15 - Gelson Fernandes': 1
+  '2 - Zdeněk Grygera': 1
+  '20 - Patrick Müller': 4
+  '22 - David Rozehnal': 2
+  '22 - Johan Vonlanthen': 2
+  '4 - Tomáš Galásek': 2
+  '5 - Stephan Lichtsteiner': 3
+  '6 - Marek Jankulovski': 5
+  '8 - Gökhan Inler': 5
+  '9 - Alexander Frei': 2
+'2 -  Servet Çetin':
+  '10 -  João Moutinho': 1
+  '16 - Ricardo Carvalho': 2
+  '17 -  Tuncay Şanlı': 4
+  '18 -  Kazım Kazım': 2
+  '20 -  Sabri Sarıoğlu': 3
+  '21 -  Mevlüt Erdinç': 1
+  '22 -  Hamit Altıntop': 1
+  '3 -  Hakan Balta': 3
+  '4 -  Bosingwa': 4
+  '4 -  Gökhan Zan': 1
+  '5 -  Emre Belözoğlu': 7
+  '7 -  Cristiano Ronaldo': 2
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Nihat Kahveci': 1
+  '9 -   Semih Şentürk': 1
+'2 - Paulo Ferreira':
+  '1 -  Ricardo': 1
+  '10 -  João Moutinho': 4
+  '11 -  Simão': 4
+  '15 -  Emre Aşık': 1
+  '15 -  Pepe': 2
+  '16 - Ricardo Carvalho': 12
+  '18 -  Kazım Kazım': 1
+  '20 -  Deco': 10
+  '21 -  Nuno Gomes': 1
+  '4 -  Bosingwa': 1
+  '7 -  Cristiano Ronaldo': 1
+  '8 -  Petit': 1
+'2 - Zdeněk Grygera':
+  '1 - Diego Benaglio': 1
+  '10 -  Hakan Yakin': 1
+  '10 - Václav Svěrkoš': 1
+  '11 - Stanislav Vlček': 1
+  '14 - David Jarolím': 7
+  '20 - Jaroslav Plašil': 2
+  '20 - Patrick Müller': 1
+  '21 - Tomáš Ujfaluši': 1
+  '3 - Jan Polák': 5
+  '3 - Ludovic Magnin': 3
+  '4 - Tomáš Galásek': 4
+  '6 - Marek Jankulovski': 2
+  '7 - Libor Sionko': 11
+  '9 - Alexander Frei': 2
+  '9 - Jan Koller': 4
+'20 -  Deco':
+  '1 -  Ricardo': 1
+  '10 -  João Moutinho': 3
+  '11 -  Simão': 5
+  '15 -  Pepe': 3
+  '16 - Ricardo Carvalho': 2
+  '17 -  Tuncay Şanlı': 3
+  '18 -  Kazım Kazım': 1
+  '19 -  Nani': 1
+  '2 -  Servet Çetin': 1
+  '2 - Paulo Ferreira': 4
+  '21 -  Nuno Gomes': 1
+  '22 -  Hamit Altıntop': 2
+  '23 -  Volkan Demirel': 1
+  '3 -  Hakan Balta': 3
+  '4 -  Bosingwa': 3
+  '5 -  Emre Belözoğlu': 2
+  '7 -  Cristiano Ronaldo': 3
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Nihat Kahveci': 2
+  '8 -  Petit': 7
+'20 -  Sabri Sarıoğlu':
+  '1 -  Ricardo': 1
+  '10 -  João Moutinho': 1
+  '11 -  Simão': 1
+  '15 -  Emre Aşık': 1
+  '16 - Ricardo Carvalho': 1
+  '17 -  Tuncay Şanlı': 1
+  '18 -  Kazım Kazım': 4
+  '20 -  Deco': 1
+  '5 -  Emre Belözoğlu': 1
+  '7 -  Mehmet Aurélio': 3
+  '8 -  Petit': 3
+'20 - Jaroslav Plašil':
+  '11 - Stanislav Vlček': 1
+  '15 - Gelson Fernandes': 2
+  '2 - Zdeněk Grygera': 2
+  '20 - Patrick Müller': 2
+  '22 - David Rozehnal': 1
+  '3 - Jan Polák': 6
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 3
+  '7 - Libor Sionko': 2
+  '8 - Gökhan Inler': 2
+  '9 - Jan Koller': 3
+'20 - Patrick Müller':
+  '1 - Diego Benaglio': 2
+  '10 -  Hakan Yakin': 1
+  '11 - Marco Streller': 1
+  '12 - Eren Derdiyok': 1
+  '15 - Gelson Fernandes': 7
+  '16 - Tranquillo Barnetta': 2
+  '19 - Valon Behrami': 5
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 1
+  '4 - Philippe Senderos': 15
+  '5 - Stephan Lichtsteiner': 8
+  '6 - Marek Jankulovski': 2
+  '7 - Libor Sionko': 1
+  '8 - Gökhan Inler': 11
+  '9 - Alexander Frei': 1
+'21 -  Mevlüt Erdinç':
+  '1 -  Ricardo': 2
+  '17 -  Tuncay Şanlı': 2
+  '18 -  Kazım Kazım': 1
+  '22 -  Hamit Altıntop': 2
+  '4 -  Bosingwa': 2
+  '5 -  Emre Belözoğlu': 1
+  '8 -  Nihat Kahveci': 3
+'21 -  Nuno Gomes':
+  '15 -  Pepe': 1
+  '17 -  Tuncay Şanlı': 1
+  '2 -  Servet Çetin': 1
+  '20 -  Deco': 2
+  '22 -  Hamit Altıntop': 1
+  '23 -  Volkan Demirel': 1
+  '3 -  Hakan Balta': 1
+  '7 -  Cristiano Ronaldo': 4
+  '7 -  Mehmet Aurélio': 1
+'21 - Tomáš Ujfaluši':
+  '1 - Diego Benaglio': 1
+  '1 - Petr  Čech': 1
+  '10 - Václav Svěrkoš': 1
+  '14 - David Jarolím': 2
+  '16 - Tranquillo Barnetta': 1
+  '2 - Zdeněk Grygera': 7
+  '22 - David Rozehnal': 9
+  '3 - Jan Polák': 4
+  '4 - Philippe Senderos': 1
+  '4 - Tomáš Galásek': 3
+  '7 - Libor Sionko': 3
+  '8 - Gökhan Inler': 1
+  '9 - Jan Koller': 2
+'22 -  Hamit Altıntop':
+  '1 -  Ricardo': 2
+  '10 -  João Moutinho': 1
+  '15 -  Pepe': 1
+  '16 - Ricardo Carvalho': 1
+  '17 -  Tuncay Şanlı': 2
+  '18 -  Kazım Kazım': 3
+  '21 -  Mevlüt Erdinç': 1
+  '23 -  Volkan Demirel': 1
+  '4 -  Gökhan Zan': 4
+  '7 -  Mehmet Aurélio': 4
+  '8 -  Nihat Kahveci': 1
+  '8 -  Petit': 1
+'22 - David Rozehnal':
+  '1 - Diego Benaglio': 3
+  '1 - Petr  Čech': 4
+  '10 - Václav Svěrkoš': 1
+  '14 - David Jarolím': 4
+  '19 - Valon Behrami': 1
+  '2 - Zdeněk Grygera': 3
+  '20 - Jaroslav Plašil': 5
+  '20 - Patrick Müller': 1
+  '21 - Tomáš Ujfaluši': 12
+  '3 - Jan Polák': 6
+  '4 - Tomáš Galásek': 2
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 10
+  '9 - Jan Koller': 1
+'22 - Johan Vonlanthen':
+  '19 - Valon Behrami': 1
+  '6 - Marek Jankulovski': 2
+  '8 - Gökhan Inler': 2
+'23 -  Volkan Demirel':
+  '11 -  Simão': 1
+  '15 -  Pepe': 3
+  '16 - Ricardo Carvalho': 1
+  '18 -  Kazım Kazım': 1
+  '22 -  Hamit Altıntop': 1
+  '4 -  Gökhan Zan': 1
+  '7 -  Mehmet Aurélio': 3
+  '8 -  Nihat Kahveci': 1
+  '8 -  Petit': 1
+'3 -  Hakan Balta':
+  '10 -  João Moutinho': 1
+  '15 -  Pepe': 2
+  '17 -  Tuncay Şanlı': 8
+  '18 -  Kazım Kazım': 1
+  '2 -  Servet Çetin': 3
+  '20 -  Deco': 1
+  '20 -  Sabri Sarıoğlu': 1
+  '21 -  Mevlüt Erdinç': 1
+  '4 -  Gökhan Zan': 1
+  '5 -  Emre Belözoğlu': 8
+  '7 -  Mehmet Aurélio': 3
+  '8 -  Nihat Kahveci': 1
+'3 - Jan Polák':
+  '1 - Diego Benaglio': 1
+  '10 - Václav Svěrkoš': 3
+  '14 - David Jarolím': 3
+  '16 - Tranquillo Barnetta': 1
+  '19 - Valon Behrami': 1
+  '2 - Zdeněk Grygera': 4
+  '20 - Jaroslav Plašil': 3
+  '20 - Patrick Müller': 1
+  '21 - Tomáš Ujfaluši': 3
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 1
+  '4 - Philippe Senderos': 3
+  '4 - Tomáš Galásek': 4
+  '5 - Stephan Lichtsteiner': 2
+  '6 - Marek Jankulovski': 4
+  '7 - Libor Sionko': 4
+  '9 - Alexander Frei': 1
+  '9 - Jan Koller': 1
+'3 - Ludovic Magnin':
+  '1 - Diego Benaglio': 2
+  '10 -  Hakan Yakin': 3
+  '11 - Marco Streller': 2
+  '15 - Gelson Fernandes': 2
+  '16 - Tranquillo Barnetta': 13
+  '19 - Valon Behrami': 2
+  '2 - Zdeněk Grygera': 5
+  '20 - Jaroslav Plašil': 1
+  '20 - Patrick Müller': 4
+  '21 - Tomáš Ujfaluši': 2
+  '22 - David Rozehnal': 1
+  '3 - Jan Polák': 1
+  '4 - Philippe Senderos': 9
+  '4 - Tomáš Galásek': 1
+  '7 - Libor Sionko': 2
+  '8 - Gökhan Inler': 6
+  '9 - Alexander Frei': 3
+  '9 - Jan Koller': 1
+'4 -  Bosingwa':
+  '10 -  João Moutinho': 2
+  '11 -  Simão': 2
+  '15 -  Pepe': 9
+  '16 - Ricardo Carvalho': 2
+  '18 -  Kazım Kazım': 1
+  '19 -  Nani': 1
+  '2 -  Servet Çetin': 2
+  '2 - Paulo Ferreira': 1
+  '20 -  Deco': 5
+  '20 -  Sabri Sarıoğlu': 2
+  '21 -  Nuno Gomes': 1
+  '3 -  Hakan Balta': 1
+  '4 -  Gökhan Zan': 1
+  '5 -  Emre Belözoğlu': 1
+  '6 -  Raul Meireles': 2
+  '7 -  Cristiano Ronaldo': 5
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Petit': 3
+'4 -  Gökhan Zan':
+  '10 -  João Moutinho': 1
+  '16 - Ricardo Carvalho': 1
+  '17 -  Tuncay Şanlı': 1
+  '2 -  Servet Çetin': 4
+  '2 - Paulo Ferreira': 1
+  '20 -  Sabri Sarıoğlu': 1
+  '21 -  Mevlüt Erdinç': 1
+  '21 -  Nuno Gomes': 1
+  '22 -  Hamit Altıntop': 2
+  '23 -  Volkan Demirel': 1
+  '3 -  Hakan Balta': 3
+  '5 -  Emre Belözoğlu': 1
+  '7 -  Mehmet Aurélio': 1
+'4 - Philippe Senderos':
+  '1 - Diego Benaglio': 4
+  '10 -  Hakan Yakin': 1
+  '16 - Tranquillo Barnetta': 5
+  '19 - Valon Behrami': 1
+  '20 - Patrick Müller': 17
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 2
+  '22 - Johan Vonlanthen': 1
+  '3 - Ludovic Magnin': 15
+  '5 - Stephan Lichtsteiner': 3
+  '8 - Gökhan Inler': 4
+  '9 - Alexander Frei': 1
+'4 - Tomáš Galásek':
+  '1 - Petr  Čech': 1
+  '10 - Václav Svěrkoš': 1
+  '14 - David Jarolím': 4
+  '16 - Tranquillo Barnetta': 1
+  '2 - Zdeněk Grygera': 2
+  '20 - Jaroslav Plašil': 3
+  '21 - Tomáš Ujfaluši': 2
+  '22 - David Rozehnal': 4
+  '3 - Jan Polák': 1
+  '3 - Ludovic Magnin': 2
+  '4 - Philippe Senderos': 1
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 5
+  '7 - Libor Sionko': 3
+'5 -  Emre Belözoğlu':
+  '1 -  Ricardo': 1
+  '15 -  Pepe': 1
+  '16 - Ricardo Carvalho': 1
+  '17 -  Tuncay Şanlı': 6
+  '18 -  Kazım Kazım': 2
+  '19 -  Nani': 1
+  '2 -  Servet Çetin': 4
+  '20 -  Sabri Sarıoğlu': 3
+  '23 -  Volkan Demirel': 1
+  '3 -  Hakan Balta': 6
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 3
+  '6 -  Raul Meireles': 1
+  '7 -  Cristiano Ronaldo': 2
+  '7 -  Mehmet Aurélio': 4
+  '8 -  Nihat Kahveci': 3
+  '8 -  Petit': 1
+'5 - Radoslav Kováč':
+  '10 - Václav Svěrkoš': 1
+'5 - Stephan Lichtsteiner':
+  '1 - Diego Benaglio': 2
+  '11 - Marco Streller': 2
+  '15 - Gelson Fernandes': 9
+  '16 - Tranquillo Barnetta': 1
+  '19 - Valon Behrami': 6
+  '2 - Zdeněk Grygera': 2
+  '20 - Jaroslav Plašil': 1
+  '20 - Patrick Müller': 8
+  '22 - David Rozehnal': 1
+  '3 - Jan Polák': 1
+  '4 - Philippe Senderos': 2
+  '4 - Tomáš Galásek': 2
+  '6 - Marek Jankulovski': 2
+  '8 - Gökhan Inler': 6
+  '9 - Alexander Frei': 1
+'6 -  Raul Meireles':
+  '20 -  Deco': 1
+'6 - Marek Jankulovski':
+  '1 - Diego Benaglio': 1
+  '10 - Václav Svěrkoš': 1
+  '11 - Marco Streller': 1
+  '14 - David Jarolím': 4
+  '15 - Gelson Fernandes': 3
+  '19 - Valon Behrami': 1
+  '2 - Zdeněk Grygera': 1
+  '20 - Jaroslav Plašil': 5
+  '21 - Tomáš Ujfaluši': 1
+  '22 - David Rozehnal': 10
+  '3 - Jan Polák': 4
+  '3 - Ludovic Magnin': 1
+  '4 - Philippe Senderos': 2
+  '4 - Tomáš Galásek': 3
+  '5 - Stephan Lichtsteiner': 2
+  '7 - Libor Sionko': 1
+  '9 - Jan Koller': 8
+'7 -  Cristiano Ronaldo':
+  '10 -  João Moutinho': 3
+  '15 -  Emre Aşık': 1
+  '15 -  Pepe': 4
+  '17 -  Tuncay Şanlı': 2
+  '19 -  Nani': 1
+  '2 -  Servet Çetin': 1
+  '2 - Paulo Ferreira': 1
+  '20 -  Deco': 6
+  '21 -  Nuno Gomes': 4
+  '23 -  Volkan Demirel': 1
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 1
+  '5 -  Emre Belözoğlu': 1
+  '7 -  Mehmet Aurélio': 1
+  '8 -  Petit': 2
+'7 -  Mehmet Aurélio':
+  '15 -  Emre Aşık': 1
+  '15 -  Pepe': 1
+  '17 -  Tuncay Şanlı': 9
+  '18 -  Kazım Kazım': 2
+  '2 -  Servet Çetin': 5
+  '2 - Paulo Ferreira': 3
+  '20 -  Sabri Sarıoğlu': 2
+  '22 -  Hamit Altıntop': 3
+  '3 -  Hakan Balta': 4
+  '4 -  Bosingwa': 1
+  '4 -  Gökhan Zan': 3
+  '5 -  Emre Belözoğlu': 3
+  '8 -  Nihat Kahveci': 3
+'7 - Libor Sionko':
+  '1 - Diego Benaglio': 2
+  '14 - David Jarolím': 3
+  '15 - Gelson Fernandes': 1
+  '2 - Zdeněk Grygera': 6
+  '20 - Jaroslav Plašil': 2
+  '3 - Jan Polák': 5
+  '3 - Ludovic Magnin': 2
+  '4 - Philippe Senderos': 1
+  '4 - Tomáš Galásek': 3
+  '5 - Stephan Lichtsteiner': 1
+  '6 - Marek Jankulovski': 1
+  '8 - Gökhan Inler': 1
+  '9 - Jan Koller': 3
+'8 -  Nihat Kahveci':
+  '1 -  Ricardo': 3
+  '10 -  João Moutinho': 2
+  '15 -  Emre Aşık': 1
+  '16 - Ricardo Carvalho': 2
+  '17 -  Tuncay Şanlı': 3
+  '18 -  Kazım Kazım': 4
+  '2 -  Servet Çetin': 1
+  '20 -  Sabri Sarıoğlu': 1
+  '21 -  Mevlüt Erdinç': 2
+  '22 -  Hamit Altıntop': 1
+  '4 -  Bosingwa': 4
+  '5 -  Emre Belözoğlu': 2
+'8 -  Petit':
+  '10 -  João Moutinho': 6
+  '11 -  Simão': 3
+  '15 -  Pepe': 4
+  '16 - Ricardo Carvalho': 4
+  '18 -  Kazım Kazım': 1
+  '19 -  Nani': 1
+  '2 - Paulo Ferreira': 3
+  '20 -  Deco': 5
+  '21 -  Nuno Gomes': 1
+  '23 -  Volkan Demirel': 1
+  '4 -  Bosingwa': 1
+  '7 -  Cristiano Ronaldo': 4
+'8 - Gökhan Inler':
+  '10 -  Hakan Yakin': 2
+  '11 - Marco Streller': 1
+  '15 - Gelson Fernandes': 8
+  '16 - Tranquillo Barnetta': 8
+  '19 - Valon Behrami': 4
+  '20 - Jaroslav Plašil': 1
+  '20 - Patrick Müller': 5
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 5
+  '4 - Philippe Senderos': 4
+  '4 - Tomáš Galásek': 3
+  '5 - Stephan Lichtsteiner': 6
+  '7 - Libor Sionko': 2
+'9 - Alexander Frei':
+  '11 - Marco Streller': 2
+  '14 - David Jarolím': 1
+  '15 - Gelson Fernandes': 1
+  '19 - Valon Behrami': 2
+  '22 - David Rozehnal': 1
+  '3 - Ludovic Magnin': 3
+  '5 - Stephan Lichtsteiner': 1
+  '8 - Gökhan Inler': 2
+'9 - Jan Koller':
+  '14 - David Jarolím': 2
+  '16 - Tranquillo Barnetta': 1
+  '19 - Valon Behrami': 3
+  '2 - Zdeněk Grygera': 2
+  '20 - Jaroslav Plašil': 2
+  '20 - Patrick Müller': 2
+  '21 - Tomáš Ujfaluši': 1
+  '3 - Jan Polák': 2
+  '4 - Philippe Senderos': 3
+  '4 - Tomáš Galásek': 1
+  '6 - Marek Jankulovski': 2
+  '7 - Libor Sionko': 4
