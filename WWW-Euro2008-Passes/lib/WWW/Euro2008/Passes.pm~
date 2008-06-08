@@ -4,7 +4,8 @@ use warnings;
 use strict;
 use Carp;
 
-use version; $VERSION = qv('0.0.3');
+use version; our $VERSION = qv('0.0.3');
+require Exporter;
 
 # Other recommended modules (uncomment to use):
 #  use IO::Prompt;
@@ -12,9 +13,32 @@ use version; $VERSION = qv('0.0.3');
 #  use Perl6::Slurp;
 #  use Perl6::Say;
 
+our @ISA = qw(Exporter);
+our @EXPORT_OK = qw(extract_statistics next_URL);  # symbols to export on request
+
 
 # Module implementation here
 
+sub extract_statistics {
+    my $text  = shift;
+    my $pares_ref = shift;
+    my @pairs = ($text =~ m{<td class="tdPlayerStats" style="[^"]+">([^<]+)</td><td class="valueNoBold">(\d+)</td>}gs);
+    my %pares;
+    while ( @pairs )  {
+	my ( $pareja, $pases ) = splice( @pairs, 0, 2 );
+	my ( $menda, $otro_menda ) = ($pareja =~ /(\d+\s+-[^-]+)\s+-\s+(\d+\s+-[^-]+)/);
+	$pares_ref->{$menda}{$otro_menda}=$pases;
+    }
+}
+
+sub next_URL {
+    my $text = shift;
+    if ( $text =~ m{<div class="nextLink"><span><a href="([^"]+)">Next} ) {
+	return $1;
+    } else {
+	return ''
+    }
+}
 
 1; # Magic true value required at end of module
 __END__
