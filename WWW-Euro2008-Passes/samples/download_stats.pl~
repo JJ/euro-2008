@@ -1,15 +1,24 @@
-use Test::More tests => 1;
+#!/usr/bin/perl
 
 use lib qw( lib ../lib );
 
-use WWW::Euro2008::Passes qw( extract_statistics );
-use File::Slurp qw(read_file);
+use WWW::Euro2008::Passes qw( extract_statistics next_URL );
+use LWP::Simple qw(get);
+use YAML qw(Dump DumpFile);
+my $base_URL = 'http://www.euro2008.uefa.com/tournament/statistics/players/typestat=PD/';
+my $this_URL = 'index.html';
 
-my $texto_file = 'pd-8-jun.html';
-my $texto = read_file( $texto_file ) || die "No hay fichero";
+my %pares;
+my $texto;
+do {
+  my $texto_URL = "$base_URL$this_URL";
+  print "Downloading $texto_URL\n";
+  $texto = get( $texto_URL ) || die "No hay fichero";
+  extract_statistics( $texto, \%pares );
+} while ( $this_URL = next_URL( $texto ) );
 
-my $pares = extract_statistics( $texto );
+print Dump( \%pares );
+print DumpFile( 'jun-8.yaml', \%pares);
 
-ok( scalar %$pares eq '4/8' , 'OK' );
 
-diag( "Testing WWW::Euro2008::Passes $WWW::Euro2008::Passes::VERSION" );
+
