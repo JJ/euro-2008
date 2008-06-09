@@ -18,7 +18,7 @@ do {
 } while ( $this_URL = next_URL( $texto ) );
 
 print Dump( \%pares );
-print DumpFile( 'jun-9.yaml', \%pares);
+DumpFile( 'jun-9.yaml', \%pares);
 
 
 
