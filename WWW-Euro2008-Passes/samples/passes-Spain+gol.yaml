@@ -1,0 +1,322 @@
+---
+'Gol': ~
+'1 - Casillas Iker':
+  '10 - Fàbregas Cesc': 1
+  '11 - Capdevila Joan': 18
+  '12 - Santi Cazorla ': 3
+  '15 - Sergio Ramos ': 23
+  '19 - Senna Marcos': 4
+  '2 - Albiol Raúl ': 3
+  '21 - Silva David ': 3
+  '4 - Marchena Carlos ': 17
+  '5 - Puyol Carles': 9
+  '6 - Iniesta Andrés ': 2
+  '7 - Villa David ': 3
+  '8 - Xavi Hernández ': 1
+  '9 - Torres Fernando': 3
+'10 - Fàbregas Cesc':
+  '10 - Fàbregas Cesc': 15
+  '11 - Capdevila Joan': 16
+  '12 - Santi Cazorla ': 14
+  '14 - Xabi Alonso ': 21
+  '15 - Sergio Ramos ': 16
+  '16 - Sergio García ': 16
+  '17 - Güiza Daniel': 11
+  '18 - Arbeloa Álvaro': 5
+  '19 - Senna Marcos': 16
+  '2 - Albiol Raúl ': 5
+  '20 - Juanito ': 3
+  '21 - Silva David ': 26
+  '22 - de la Red Rubén': 13
+  '3 - Fernando Navarro ': 6
+  '4 - Marchena Carlos ': 3
+  '5 - Puyol Carles': 4
+  '6 - Iniesta Andrés ': 7
+  '7 - Villa David ': 9
+  '8 - Xavi Hernández ': 7
+  '9 - Torres Fernando': 7
+  'Gol' : 1
+'11 - Capdevila Joan':
+  '1 - Casillas Iker': 4
+  '10 - Fàbregas Cesc': 22
+  '12 - Santi Cazorla ': 5
+  '14 - Xabi Alonso ': 5
+  '15 - Sergio Ramos ': 2
+  '17 - Güiza Daniel': 1
+  '19 - Senna Marcos': 20
+  '2 - Albiol Raúl ': 5
+  '21 - Silva David ': 25
+  '4 - Marchena Carlos ': 33
+  '5 - Puyol Carles': 4
+  '6 - Iniesta Andrés ': 23
+  '7 - Villa David ': 16
+  '8 - Xavi Hernández ': 37
+  '9 - Torres Fernando': 9
+'12 - Santi Cazorla ':
+  '10 - Fàbregas Cesc': 11
+  '11 - Capdevila Joan': 9
+  '14 - Xabi Alonso ': 5
+  '15 - Sergio Ramos ': 15
+  '16 - Sergio García ': 3
+  '17 - Güiza Daniel': 2
+  '19 - Senna Marcos': 3
+  '2 - Albiol Raúl ': 1
+  '20 - Juanito ': 2
+  '21 - Silva David ': 8
+  '22 - de la Red Rubén': 7
+  '3 - Fernando Navarro ': 2
+  '4 - Marchena Carlos ': 3
+  '5 - Puyol Carles': 1
+  '7 - Villa David ': 8
+  '8 - Xavi Hernández ': 1
+  '9 - Torres Fernando': 3
+'14 - Xabi Alonso ':
+  '10 - Fàbregas Cesc': 17
+  '11 - Capdevila Joan': 4
+  '12 - Santi Cazorla ': 4
+  '15 - Sergio Ramos ': 2
+  '16 - Sergio García ': 12
+  '17 - Güiza Daniel': 9
+  '18 - Arbeloa Álvaro': 4
+  '19 - Senna Marcos': 7
+  '2 - Albiol Raúl ': 1
+  '20 - Juanito ': 5
+  '21 - Silva David ': 3
+  '22 - de la Red Rubén': 10
+  '23 - Reina Pepe': 2
+  '3 - Fernando Navarro ': 7
+  '6 - Iniesta Andrés ': 10
+  '7 - Villa David ': 1
+  '8 - Xavi Hernández ': 1
+'15 - Sergio Ramos ':
+  '1 - Casillas Iker': 5
+  '10 - Fàbregas Cesc': 23
+  '11 - Capdevila Joan': 7
+  '12 - Santi Cazorla ': 11
+  '14 - Xabi Alonso ': 1
+  '17 - Güiza Daniel': 1
+  '19 - Senna Marcos': 38
+  '2 - Albiol Raúl ': 3
+  '21 - Silva David ': 36
+  '4 - Marchena Carlos ': 11
+  '5 - Puyol Carles': 24
+  '6 - Iniesta Andrés ': 26
+  '7 - Villa David ': 6
+  '8 - Xavi Hernández ': 29
+  '9 - Torres Fernando': 15
+'16 - Sergio García ':
+  '10 - Fàbregas Cesc': 15
+  '12 - Santi Cazorla ': 1
+  '14 - Xabi Alonso ': 5
+  '17 - Güiza Daniel': 4
+  '18 - Arbeloa Álvaro': 3
+  '2 - Albiol Raúl ': 1
+  '22 - de la Red Rubén': 9
+  '6 - Iniesta Andrés ': 1
+'17 - Güiza Daniel':
+  '10 - Fàbregas Cesc': 6
+  '12 - Santi Cazorla ': 1
+  '14 - Xabi Alonso ': 5
+  '15 - Sergio Ramos ': 1
+  '16 - Sergio García ': 1
+  '19 - Senna Marcos': 1
+  '2 - Albiol Raúl ': 1
+  '20 - Juanito ': 1
+  '21 - Silva David ': 3
+  '22 - de la Red Rubén': 2
+  '3 - Fernando Navarro ': 1
+  '6 - Iniesta Andrés ': 1
+  'Gol': 2
+'18 - Arbeloa Álvaro':
+  '10 - Fàbregas Cesc': 9
+  '14 - Xabi Alonso ': 7
+  '16 - Sergio García ': 5
+  '2 - Albiol Raúl ': 1
+  '20 - Juanito ': 1
+  '22 - de la Red Rubén': 3
+  '23 - Reina Pepe': 1
+  '3 - Fernando Navarro ': 2
+'19 - Senna Marcos':
+  '1 - Casillas Iker': 3
+  '10 - Fàbregas Cesc': 18
+  '11 - Capdevila Joan': 26
+  '12 - Santi Cazorla ': 8
+  '14 - Xabi Alonso ': 5
+  '15 - Sergio Ramos ': 27
+  '17 - Güiza Daniel': 3
+  '2 - Albiol Raúl ': 4
+  '21 - Silva David ': 29
+  '4 - Marchena Carlos ': 16
+  '5 - Puyol Carles': 17
+  '6 - Iniesta Andrés ': 23
+  '7 - Villa David ': 11
+  '8 - Xavi Hernández ': 35
+  '9 - Torres Fernando': 12
+'2 - Albiol Raúl ':
+  '1 - Casillas Iker': 2
+  '10 - Fàbregas Cesc': 6
+  '11 - Capdevila Joan': 4
+  '12 - Santi Cazorla ': 2
+  '14 - Xabi Alonso ': 7
+  '15 - Sergio Ramos ': 9
+  '16 - Sergio García ': 4
+  '17 - Güiza Daniel': 2
+  '18 - Arbeloa Álvaro': 5
+  '19 - Senna Marcos': 4
+  '20 - Juanito ': 4
+  '21 - Silva David ': 4
+  '22 - de la Red Rubén': 2
+  '23 - Reina Pepe': 1
+  '3 - Fernando Navarro ': 2
+  '4 - Marchena Carlos ': 4
+  '6 - Iniesta Andrés ': 1
+  '8 - Xavi Hernández ': 1
+'20 - Juanito ':
+  '10 - Fàbregas Cesc': 3
+  '12 - Santi Cazorla ': 1
+  '14 - Xabi Alonso ': 6
+  '16 - Sergio García ': 2
+  '17 - Güiza Daniel': 2
+  '18 - Arbeloa Álvaro': 3
+  '2 - Albiol Raúl ': 6
+  '22 - de la Red Rubén': 4
+  '23 - Reina Pepe': 1
+  '3 - Fernando Navarro ': 6
+  '6 - Iniesta Andrés ': 4
+'21 - Silva David ':
+  '1 - Casillas Iker': 1
+  '10 - Fàbregas Cesc': 21
+  '11 - Capdevila Joan': 26
+  '12 - Santi Cazorla ': 4
+  '14 - Xabi Alonso ': 3
+  '15 - Sergio Ramos ': 27
+  '17 - Güiza Daniel': 5
+  '19 - Senna Marcos': 23
+  '2 - Albiol Raúl ': 1
+  '4 - Marchena Carlos ': 9
+  '5 - Puyol Carles': 5
+  '6 - Iniesta Andrés ': 17
+  '7 - Villa David ': 20
+  '8 - Xavi Hernández ': 21
+  '9 - Torres Fernando': 13
+  'Gol' : 1
+'22 - de la Red Rubén':
+  '10 - Fàbregas Cesc': 10
+  '12 - Santi Cazorla ': 7
+  '14 - Xabi Alonso ': 8
+  '16 - Sergio García ': 8
+  '17 - Güiza Daniel': 3
+  '18 - Arbeloa Álvaro': 2
+  '2 - Albiol Raúl ': 3
+  '20 - Juanito ': 3
+  '3 - Fernando Navarro ': 8
+  '6 - Iniesta Andrés ': 7
+  'Gol' : 1
+'23 - Reina Pepe':
+  '10 - Fàbregas Cesc': 2
+  '12 - Santi Cazorla ': 2
+  '14 - Xabi Alonso ': 1
+  '17 - Güiza Daniel': 1
+  '18 - Arbeloa Álvaro': 1
+  '2 - Albiol Raúl ': 2
+  '20 - Juanito ': 3
+  '3 - Fernando Navarro ': 4
+  '6 - Iniesta Andrés ': 1
+'3 - Fernando Navarro ':
+  '10 - Fàbregas Cesc': 14
+  '12 - Santi Cazorla ': 3
+  '14 - Xabi Alonso ': 6
+  '16 - Sergio García ': 1
+  '17 - Güiza Daniel': 3
+  '2 - Albiol Raúl ': 2
+  '20 - Juanito ': 2
+  '22 - de la Red Rubén': 9
+  '23 - Reina Pepe': 4
+  '6 - Iniesta Andrés ': 11
+'4 - Marchena Carlos ':
+  '1 - Casillas Iker': 11
+  '10 - Fàbregas Cesc': 13
+  '11 - Capdevila Joan': 22
+  '12 - Santi Cazorla ': 5
+  '15 - Sergio Ramos ': 8
+  '19 - Senna Marcos': 28
+  '2 - Albiol Raúl ': 9
+  '21 - Silva David ': 19
+  '5 - Puyol Carles': 25
+  '6 - Iniesta Andrés ': 7
+  '7 - Villa David ': 8
+  '8 - Xavi Hernández ': 27
+  '9 - Torres Fernando': 2
+'5 - Puyol Carles':
+  '1 - Casillas Iker': 7
+  '10 - Fàbregas Cesc': 7
+  '11 - Capdevila Joan': 6
+  '12 - Santi Cazorla ': 2
+  '14 - Xabi Alonso ': 2
+  '15 - Sergio Ramos ': 20
+  '19 - Senna Marcos': 19
+  '21 - Silva David ': 8
+  '4 - Marchena Carlos ': 28
+  '6 - Iniesta Andrés ': 2
+  '8 - Xavi Hernández ': 15
+  '9 - Torres Fernando': 2
+'6 - Iniesta Andrés ':
+  '1 - Casillas Iker': 1
+  '10 - Fàbregas Cesc': 14
+  '11 - Capdevila Joan': 12
+  '14 - Xabi Alonso ': 11
+  '15 - Sergio Ramos ': 16
+  '16 - Sergio García ': 1
+  '17 - Güiza Daniel': 2
+  '19 - Senna Marcos': 9
+  '20 - Juanito ': 2
+  '21 - Silva David ': 17
+  '22 - de la Red Rubén': 9
+  '3 - Fernando Navarro ': 3
+  '4 - Marchena Carlos ': 10
+  '5 - Puyol Carles': 4
+  '7 - Villa David ': 8
+  '8 - Xavi Hernández ': 21
+  '9 - Torres Fernando': 3
+'7 - Villa David ':
+  '10 - Fàbregas Cesc': 8
+  '11 - Capdevila Joan': 5
+  '12 - Santi Cazorla ': 4
+  '15 - Sergio Ramos ': 5
+  '17 - Güiza Daniel': 3
+  '19 - Senna Marcos': 5
+  '21 - Silva David ': 15
+  '4 - Marchena Carlos ': 2
+  '5 - Puyol Carles': 1
+  '6 - Iniesta Andrés ': 7
+  '7 - Villa David ': 1
+  '8 - Xavi Hernández ': 7
+  '9 - Torres Fernando': 6
+  'Gol' : 4 
+'8 - Xavi Hernández ':
+  '1 - Casillas Iker': 4
+  '10 - Fàbregas Cesc': 16
+  '11 - Capdevila Joan': 28
+  '12 - Santi Cazorla ': 4
+  '15 - Sergio Ramos ': 26
+  '19 - Senna Marcos': 31
+  '2 - Albiol Raúl ': 1
+  '21 - Silva David ': 36
+  '4 - Marchena Carlos ': 19
+  '5 - Puyol Carles': 8
+  '6 - Iniesta Andrés ': 21
+  '7 - Villa David ': 10
+  '8 - Xavi Hernández ': 11
+  '9 - Torres Fernando': 12
+  'Gol' : 1
+'9 - Torres Fernando':
+  '10 - Fàbregas Cesc': 4
+  '11 - Capdevila Joan': 5
+  '15 - Sergio Ramos ': 5
+  '19 - Senna Marcos': 4
+  '4 - Marchena Carlos ': 1
+  '5 - Puyol Carles': 1
+  '6 - Iniesta Andrés ': 5
+  '7 - Villa David ': 5
+  '8 - Xavi Hernández ': 3
+  'Gol': 1

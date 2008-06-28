@@ -1,0 +1,247 @@
+---
+'Gol': ~
+'1 - Lehmann Jens':
+  '11 - Klose Miroslav': 9
+  '13 - Ballack Michael': 7
+  '15 - Hitzlsperger Thomas': 4
+  '16 - Lahm Philipp': 15
+  '17 - Mertesacker Per': 13
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 5
+  '20 - Podolski Lukas': 8
+  '21 - Metzelder Christoph': 14
+  '22 - Kuranyi Kevin': 1
+  '3 - Friedrich Arne': 4
+  '4 - Fritz Clemens': 3
+  '7 - Schweinsteiger Bastian': 2
+  '8 - Frings Torsten': 8
+  '9 - Gómez Mario': 1
+'10 - Neuville Oliver':
+  '11 - Klose Miroslav': 2
+  '15 - Hitzlsperger Thomas': 1
+  '8 - Frings Torsten': 1
+'11 - Klose Miroslav':
+  '10 - Neuville Oliver': 3
+  '11 - Klose Miroslav': 1
+  '13 - Ballack Michael': 8
+  '15 - Hitzlsperger Thomas': 2
+  '16 - Lahm Philipp': 7
+  '17 - Mertesacker Per': 1
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 3
+  '20 - Podolski Lukas': 12
+  '21 - Metzelder Christoph': 3
+  '3 - Friedrich Arne': 1
+  '4 - Fritz Clemens': 11
+  '6 - Rolfes Simon': 3
+  '7 - Schweinsteiger Bastian': 3
+  '8 - Frings Torsten': 5
+  '9 - Gómez Mario': 9
+  'Gol': 2
+'13 - Ballack Michael':
+  '1 - Lehmann Jens': 4
+  '11 - Klose Miroslav': 22
+  '15 - Hitzlsperger Thomas': 10
+  '16 - Lahm Philipp': 14
+  '17 - Mertesacker Per': 15
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 13
+  '20 - Podolski Lukas': 26
+  '21 - Metzelder Christoph': 13
+  '3 - Friedrich Arne': 4
+  '4 - Fritz Clemens': 9
+  '6 - Rolfes Simon': 3
+  '7 - Schweinsteiger Bastian': 13
+  '8 - Frings Torsten': 19
+  '9 - Gómez Mario': 10
+  'Gol' : 2
+'15 - Hitzlsperger Thomas':
+  '11 - Klose Miroslav': 6
+  '13 - Ballack Michael': 9
+  '15 - Hitzlsperger Thomas': 2
+  '16 - Lahm Philipp': 18
+  '17 - Mertesacker Per': 4
+  '2 - Jansen Marcell ': 4
+  '20 - Podolski Lukas': 9
+  '21 - Metzelder Christoph': 2
+  '3 - Friedrich Arne': 2
+  '4 - Fritz Clemens': 1
+  '6 - Rolfes Simon': 9
+  '7 - Schweinsteiger Bastian': 7
+  '8 - Frings Torsten': 4
+'16 - Lahm Philipp':
+  '1 - Lehmann Jens': 9
+  '10 - Neuville Oliver': 1
+  '11 - Klose Miroslav': 12
+  '13 - Ballack Michael': 36
+  '15 - Hitzlsperger Thomas': 11
+  '16 - Lahm Philipp': 1
+  '17 - Mertesacker Per': 24
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 1
+  '20 - Podolski Lukas': 47
+  '21 - Metzelder Christoph': 33
+  '3 - Friedrich Arne': 1
+  '4 - Fritz Clemens': 14
+  '6 - Rolfes Simon': 13
+  '7 - Schweinsteiger Bastian': 15
+  '8 - Frings Torsten': 12
+  '9 - Gómez Mario': 8
+  'Gol': 1
+'17 - Mertesacker Per':
+  '1 - Lehmann Jens': 10
+  '11 - Klose Miroslav': 5
+  '13 - Ballack Michael': 16
+  '15 - Hitzlsperger Thomas': 8
+  '16 - Lahm Philipp': 18
+  '19 - Odonkor David': 3
+  '2 - Jansen Marcell ': 3
+  '20 - Podolski Lukas': 7
+  '21 - Metzelder Christoph': 41
+  '3 - Friedrich Arne': 16
+  '4 - Fritz Clemens': 11
+  '6 - Rolfes Simon': 12
+  '7 - Schweinsteiger Bastian': 13
+  '8 - Frings Torsten': 32
+  '9 - Gómez Mario': 4
+'18 - Borowski Tim':
+  '7 - Schweinsteiger Bastian': 1
+'19 - Odonkor David':
+  '1 - Lehmann Jens': 3
+  '11 - Klose Miroslav': 1
+  '13 - Ballack Michael': 3
+  '16 - Lahm Philipp': 1
+  '17 - Mertesacker Per': 3
+  '20 - Podolski Lukas': 1
+  '21 - Metzelder Christoph': 1
+  '7 - Schweinsteiger Bastian': 2
+  '8 - Frings Torsten': 2
+'2 - Jansen Marcell ':
+  '1 - Lehmann Jens': 2
+  '11 - Klose Miroslav': 5
+  '13 - Ballack Michael': 14
+  '15 - Hitzlsperger Thomas': 5
+  '16 - Lahm Philipp': 3
+  '17 - Mertesacker Per': 3
+  '2 - Jansen Marcell ': 1
+  '20 - Podolski Lukas': 16
+  '21 - Metzelder Christoph': 12
+  '4 - Fritz Clemens': 1
+  '6 - Rolfes Simon': 1
+  '7 - Schweinsteiger Bastian': 1
+  '8 - Frings Torsten': 5
+  '9 - Gómez Mario': 9
+'20 - Podolski Lukas':
+  '1 - Lehmann Jens': 1
+  '11 - Klose Miroslav': 15
+  '13 - Ballack Michael': 27
+  '15 - Hitzlsperger Thomas': 6
+  '16 - Lahm Philipp': 32
+  '17 - Mertesacker Per': 4
+  '2 - Jansen Marcell ': 12
+  '20 - Podolski Lukas': 4
+  '21 - Metzelder Christoph': 7
+  '3 - Friedrich Arne': 2
+  '4 - Fritz Clemens': 2
+  '6 - Rolfes Simon': 9
+  '7 - Schweinsteiger Bastian': 7
+  '8 - Frings Torsten': 17
+  '9 - Gómez Mario': 10
+  'Gol' : 3
+'21 - Metzelder Christoph':
+  '1 - Lehmann Jens': 12
+  '11 - Klose Miroslav': 3
+  '13 - Ballack Michael': 22
+  '15 - Hitzlsperger Thomas': 6
+  '16 - Lahm Philipp': 20
+  '17 - Mertesacker Per': 53
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 9
+  '20 - Podolski Lukas': 19
+  '21 - Metzelder Christoph': 1
+  '3 - Friedrich Arne': 5
+  '6 - Rolfes Simon': 1
+  '7 - Schweinsteiger Bastian': 7
+  '8 - Frings Torsten': 23
+  '9 - Gómez Mario': 4
+'22 - Kuranyi Kevin':
+  '20 - Podolski Lukas': 1
+  '7 - Schweinsteiger Bastian': 1
+'3 - Friedrich Arne':
+  '1 - Lehmann Jens': 1
+  '11 - Klose Miroslav': 7
+  '13 - Ballack Michael': 11
+  '15 - Hitzlsperger Thomas': 7
+  '16 - Lahm Philipp': 2
+  '17 - Mertesacker Per': 13
+  '20 - Podolski Lukas': 2
+  '21 - Metzelder Christoph': 3
+  '4 - Fritz Clemens': 5
+  '6 - Rolfes Simon': 1
+  '7 - Schweinsteiger Bastian': 26
+  '8 - Frings Torsten': 8
+'4 - Fritz Clemens':
+  '1 - Lehmann Jens': 3
+  '11 - Klose Miroslav': 8
+  '13 - Ballack Michael': 8
+  '16 - Lahm Philipp': 13
+  '17 - Mertesacker Per': 6
+  '19 - Odonkor David': 1
+  '20 - Podolski Lukas': 5
+  '3 - Friedrich Arne': 5
+  '8 - Frings Torsten': 8
+  '9 - Gómez Mario': 4
+'6 - Rolfes Simon':
+  '1 - Lehmann Jens': 1
+  '11 - Klose Miroslav': 5
+  '13 - Ballack Michael': 4
+  '15 - Hitzlsperger Thomas': 4
+  '16 - Lahm Philipp': 12
+  '17 - Mertesacker Per': 3
+  '20 - Podolski Lukas': 8
+  '21 - Metzelder Christoph': 5
+  '3 - Friedrich Arne': 4
+  '7 - Schweinsteiger Bastian': 6
+'7 - Schweinsteiger Bastian':
+  '1 - Lehmann Jens': 2
+  '11 - Klose Miroslav': 2
+  '13 - Ballack Michael': 8
+  '15 - Hitzlsperger Thomas': 9
+  '16 - Lahm Philipp': 10
+  '17 - Mertesacker Per': 11
+  '19 - Odonkor David': 1
+  '2 - Jansen Marcell ': 1
+  '20 - Podolski Lukas': 10
+  '21 - Metzelder Christoph': 4
+  '22 - Kuranyi Kevin': 1
+  '3 - Friedrich Arne': 19
+  '6 - Rolfes Simon': 2
+  '7 - Schweinsteiger Bastian': 9
+  '8 - Frings Torsten': 10
+  '9 - Gómez Mario': 1
+  'Gol' : 2
+'8 - Frings Torsten':
+  '1 - Lehmann Jens': 5
+  '11 - Klose Miroslav': 5
+  '13 - Ballack Michael': 28
+  '15 - Hitzlsperger Thomas': 6
+  '16 - Lahm Philipp': 29
+  '17 - Mertesacker Per': 20
+  '2 - Jansen Marcell ': 12
+  '20 - Podolski Lukas': 19
+  '21 - Metzelder Christoph': 21
+  '3 - Friedrich Arne': 9
+  '4 - Fritz Clemens': 7
+  '7 - Schweinsteiger Bastian': 7
+  '8 - Frings Torsten': 7
+  '9 - Gómez Mario': 2
+'9 - Gómez Mario':
+  '11 - Klose Miroslav': 3
+  '13 - Ballack Michael': 9
+  '16 - Lahm Philipp': 4
+  '2 - Jansen Marcell ': 4
+  '20 - Podolski Lukas': 6
+  '21 - Metzelder Christoph': 2
+  '4 - Fritz Clemens': 5
+  '7 - Schweinsteiger Bastian': 2
+  '8 - Frings Torsten': 2
