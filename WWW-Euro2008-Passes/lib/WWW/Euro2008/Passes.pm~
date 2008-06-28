@@ -14,7 +14,7 @@ require Exporter;
 #  use Perl6::Say;
 
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(extract_statistics next_URL);  # symbols to export on request
+our @EXPORT_OK = qw(extract_statistics next_URL extract_statistics_country extract_players);  # symbols to export on request
 
 
 # Module implementation here
@@ -31,6 +31,21 @@ sub extract_statistics {
     }
 }
 
+sub extract_statistics_country {
+    my $text  = shift;
+    my $pares_ref = shift;
+    my $country = shift || croak "No country";
+    my @pairs = ($text =~ m{<td class="tdPlayerStats" style="[^"]+">([^<]+)</td><td class="valueNoBold">(\d+)</td><td class="\S+">([^<]+)</td}gs);
+    my %pares;
+    while ( @pairs )  {
+	my ( $pareja, $pases, $this_country ) = splice( @pairs, 0, 3 );
+	if ( $this_country eq $country ) {
+	    my ( $menda, $otro_menda ) = ($pareja =~ /(\d+\s+-[^-]+)\s+-\s+(\d+\s+-[^-]+)/);
+	    $pares_ref->{$menda}{$otro_menda}=$pases;
+	}
+    }
+}
+
 sub next_URL {
     my $text = shift;
     if ( $text =~ m{<div class="nextLink"><span><a href="([^"]+)">Next} ) {
@@ -39,6 +54,20 @@ sub next_URL {
 	return ''
     }
 }
+
+sub extract_players {
+    my $text = shift;
+    my @players = ($text =~ m{<li id="\S+">(.+?)</li>}gs);
+
+    my %player_hash;
+    for my $p (@players) {
+	my ($number, $name ) = ($p =~ m{(\d+) <a href="[^"]+">([^<]+)\s\S+</a>}g);
+        $player_hash{$name} = $number;
+    }
+return \%player_hash;
+    
+}
+
 
 1; # Magic true value required at end of module
 __END__

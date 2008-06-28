@@ -3,9 +3,11 @@ package WWW::Euro2008::Passes;
 use warnings;
 use strict;
 use Carp;
+use LWP::Simple qw(get);
 
 use version; our $VERSION = qv('0.0.3');
 require Exporter;
+
 
 # Other recommended modules (uncomment to use):
 #  use IO::Prompt;
@@ -14,22 +16,42 @@ require Exporter;
 #  use Perl6::Say;
 
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(extract_statistics next_URL extract_statistics_country extract_players);  # symbols to export on request
+our @EXPORT_OK = qw(download_team_passing_statistics extract_statistics extract_statistics_team next_URL extract_statistics_country extract_players);  # symbols to export on request
 
 
 # Module implementation here
 
+sub download_team_passing_statistics {
+    my $team_id = shift || croak "No team here";
+    my $url = "http://www.euro2008.uefa.com/tournament/teams/team=$team_id/statistics/distribution.html";
+    my $text = get( $url ) || croak  "Problems downloading $url: $@";
+    return $text;
+}
+
+sub extract_statistics_team {
+    my $text  = shift;
+    my @pairs = ($text =~ m{<td class="pName">([^<]+)</td><td class="pTot">(\d+)</td>}gs);
+    return extract_pairs( @pairs );
+    
+}
+
 sub extract_statistics {
     my $text  = shift;
-    my $pares_ref = shift;
     my @pairs = ($text =~ m{<td class="tdPlayerStats" style="[^"]+">([^<]+)</td><td class="valueNoBold">(\d+)</td>}gs);
-    my %pares;
+    return extract_pairs( @pairs );
+}
+
+sub extract_pairs {
+    my $pares_ref;
+    my @pairs = @_;
     while ( @pairs )  {
 	my ( $pareja, $pases ) = splice( @pairs, 0, 2 );
 	my ( $menda, $otro_menda ) = ($pareja =~ /(\d+\s+-[^-]+)\s+-\s+(\d+\s+-[^-]+)/);
 	$pares_ref->{$menda}{$otro_menda}=$pases;
     }
+    return $pares_ref;
 }
+
 
 sub extract_statistics_country {
     my $text  = shift;
